@@ -27,9 +27,9 @@ jobs:
             &include_all_commits=true\
             &hide_border=true\
             &theme=radical\
-            &bg_color=00000000\
             &hide_rank=true\
             "
+          # &bg_color=77000000
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
