@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">rszyma's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 256, Total Commits  : 606, Total PRs: 153, Total Issues: 113, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 257, Total Commits  : 606, Total PRs: 153, Total Issues: 113, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.52828739419232;
+        stroke-dashoffset: 66.48369828383925;
       }
     }
   
@@ -151,7 +151,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >256</text>
+      >257</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
